@@ -1,4 +1,4 @@
-# Loan_Advisor_frontend# Loan_Advisor_frontend
+# Loan_Advisor_frontend
 
 This is the frontend application for the Loan Advisor platform – a smart chatbot system that helps users discover the best lenders using a modern UI, machine learning predictions, and a conversational AI agent.
 
