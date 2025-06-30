@@ -31,3 +31,5 @@ Replace API_BASE_URL in .env with your production backend.
 #### CHATBOT
 
 ![image](https://github.com/user-attachments/assets/5520260b-96df-48db-b6be-8ebd9895f870)
+
+![alt text](image-1.png)
